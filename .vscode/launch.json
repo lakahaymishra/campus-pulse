@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Open Campus Pulse in Chrome",
+            "type": "chrome",
+            "request": "launch",
+            "file": "${workspaceFolder}/index.html"
+        },
+        {
+            "name": "Open Campus Pulse in Edge",
+            "type": "msedge",
+            "request": "launch",
+            "file": "${workspaceFolder}/index.html"
+        }
+    ]
+}
